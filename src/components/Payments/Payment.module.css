@@ -1,0 +1,16 @@
+.content {
+    align-items: center;
+    font-weight:200;
+    font-size: 1.5rem;
+    margin: 1rem 0;
+  }
+  
+.type{
+    margin: 1rem;
+    padding: 0.5rem 0.5rem 0.5rem 0.8rem;
+    border-radius: 4rem;
+}
+
+.type:hover{
+    background-color:rgba(232, 226, 226, 0.963);
+}
